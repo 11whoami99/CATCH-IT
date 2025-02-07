@@ -1,5 +1,5 @@
 # Catch-It
-A simple bash Subdomain Monitoring Tool working with tools
+A simple bash scripting Subdomain Monitoring Tool working with tools :
 
 - Subfinder 
 - anew
